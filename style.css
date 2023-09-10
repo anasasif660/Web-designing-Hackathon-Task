@@ -1,0 +1,157 @@
+
+.person{
+    width: 450px;
+    margin-left: 50px;
+   
+   
+}
+.heading{
+    font-size: 70px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+
+.heading2{
+    margin-left: 370px;
+    margin-top: -80px;
+    font-size: 60px;
+   
+    
+}
+
+.p1{
+    width: 600px;
+    text-align: center;
+    padding-left: 40px;
+}
+.my-button{
+    background-color: #f54748; 
+    color: aliceblue;
+    border: 0px;
+    margin-left: -210px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.play{
+    margin-left: 50px;
+    padding-left: -200px;
+}
+
+
+
+.my-button1{
+    background-color: #fdecec;
+    color: #f54748;
+    border: 0px;
+    margin-left: -250px;
+    width: 180px;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: -100px;
+    margin-left: ;
+}
+.heading3{
+    margin-top: 70px;
+    font-size: 20px;
+    color: #f54748;
+}
+.heading4{
+    margin-top: 40px;
+}
+heading5{
+
+}
+
+.hand{
+    width: 130px;
+    margin-left: 100px;
+    height: 50px;
+    
+
+   
+}
+
+.msg1{
+    width: 400px;
+    margin-left: 100px;
+    height: px;
+
+    
+    
+}
+.vehicle{
+    width: 130px;
+    margin-left: 100px;
+    margin-top: 30px;
+    height: 100px;
+}
+
+.mic{
+    width: 200px;
+    margin-top: -140px;
+    margin-left: 220px;
+  
+    
+}
+
+
+/* Collab*/
+.heading6{
+    margin-left: 400px;
+    margin-top: 100px;
+]
+   
+ 
+}
+/* Talk.ai */
+.heading7{
+    margin-left: 500px;
+    margin-top: -46px;
+}
+/* Get */
+.heading8{
+    margin-left: 390px;
+    margin-top:  -10px;
+    font-size: 40px;
+}
+/* started */
+.heading9{
+    margin-left: 460px;
+    margin-top: -56px;
+    font-size: 40px;
+
+}
+
+#textarea{
+   margin-top: 30px;
+    margin-left: 170px;
+    width: 700px;
+    height: 300px;
+    background-color: #fdecec;
+    border-radius: 18px
+}
+.heading10{
+   margin-left: 460px;
+   font-weight: 400;
+}
+.bord{
+    width: 500px;
+    height: 300px;
+    border: 3px;
+    border-radius: 50px;
+}
+.yourlink{
+    margin-left: 90px;
+    border-radius: 19px;
+    width: 300px;
+    height: 50px;
+}
+
+.heading11{
+    margin-left: 210px;
+    font-weight: 300;
+ }
